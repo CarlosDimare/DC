@@ -1,0 +1,5 @@
+{
+  "name": "Sindical News AI",
+  "description": "A union news platform with an AI-powered editor interface that generates structured content using Gemini search capabilities.",
+  "requestFramePermissions": []
+}
